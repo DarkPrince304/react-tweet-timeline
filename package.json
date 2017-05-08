@@ -1,0 +1,28 @@
+{
+  "name": "react-tweets-timeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkPrince304/react-tweet-timeline.git"
+  },
+  "keywords": [
+    "react",
+    "twitter",
+    "timeline",
+    "tweets",
+    "user",
+    "component",
+    "react-dom"
+  ],
+  "author": "DarkPrince304",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkPrince304/react-tweet-timeline/issues"
+  },
+  "homepage": "https://github.com/DarkPrince304/react-tweet-timeline#readme"
+}
